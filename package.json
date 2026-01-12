@@ -22,4 +22,8 @@
     "dev": "node --loader ts-node/esm src/index.ts"
   },
   "type": "module"
+  
+  "engines": {
+    "node": ">=20"
+  }
 }
